@@ -1,5 +1,6 @@
-package cput.ac.za;
+package cput.ac.za.Domain;
 
+import cput.ac.za.Domains.Account;
 import org.junit.*;
 import org.junit.rules.Timeout;
 

@@ -1,5 +1,7 @@
-package cput.ac.za;
+package cput.ac.za.Domain;
 
+import cput.ac.za.Domains.Account;
+import cput.ac.za.Domains.Clients;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

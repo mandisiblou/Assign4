@@ -1,4 +1,4 @@
-package cput.ac.za;
+package cput.ac.za.Domains;
 
 /**
  * Created by Mandisi on 3/18/2017.
